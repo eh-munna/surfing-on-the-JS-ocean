@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+background-color: #091928;
+color: darkslateblue;
+max-width: 1440px;
+margin: 0 auto;
+}
+
+h1{
+margin: 2rem 0"
+}
