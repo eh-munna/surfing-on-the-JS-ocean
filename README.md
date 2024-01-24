@@ -1,4 +1,4 @@
-<h1 align= "center">Surfing on the JavaScript Ocean</h1>
+<h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
 ### An exciting journey to explore JavaScript
 
