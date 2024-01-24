@@ -2,7 +2,8 @@
 
 ## Topics covered:
 
-- Using Quotes
+- String literals
 - Template Strings
 - String Length
 - Escape Characters
+- JavaScript Strings as Objects
