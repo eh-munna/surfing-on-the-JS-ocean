@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #091928;
+  color: rgb(129, 129, 131);
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/* .header {
+} */
+
+.header > h1 {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: 3rem;
+}
+
+.header > p {
+  margin-block: 2rem;
+  font-size: 1rem;
+}
