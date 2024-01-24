@@ -4,6 +4,6 @@
 
 #### Branch Naming Convention
 
-- Different topics are organized in separate branches with naming convention - _JS-ocean/[desired-branch-name]_
+- Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
 
-  - For example, source code is shared in _JS-ocean/string_ branch
+  - For example, string related basic practice's source code is shared in: _JS-ocean/string_ branch
