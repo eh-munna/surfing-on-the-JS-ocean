@@ -1,8 +1,8 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-### An exciting journey to explore JavaScript
+## An exciting journey to explore JavaScript
 
-#### Branch Naming Convention
+### Branch Naming Convention
 
 - Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
 
