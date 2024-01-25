@@ -1,1 +1,4 @@
-console.log('connecting to the js file');
+// - JavaScript Numbers
+
+const num = 12;
+console.log(num);
