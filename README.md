@@ -5,3 +5,6 @@
 ### Topics Covered:
 
 - JavaScript Numbers
+- Add Numbers with Strings
+- Numeric Strings
+- NaN - Not a Number
