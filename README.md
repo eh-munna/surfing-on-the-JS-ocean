@@ -1,9 +1,19 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-## An exciting journey to explore JavaScript
+## JavaScript Array Methods
 
-### Branch Naming Convention
+### Topics Covered:
 
-- Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
-
-  - For example, string related basic practice's source codes are shared in: _JS-ocean/string_ branch
+- JavaScript Array toString()
+- JavaScript Array at()
+- JavaScript Array join()
+- JavaScript Array pop()
+- JavaScript Array push()
+- JavaScript Array shift()
+- JavaScript Array unshift()
+- Merging Arrays (Concatenating)
+- Array copyWithin()
+- Flattening an Array
+- JavaScript Array splice()
+- JavaScript Array toSpliced()
+- JavaScript Array slice()
