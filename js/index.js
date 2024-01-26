@@ -1,1 +1,1 @@
-console.log('connecting to the js file');
+// JavaScript Array Sort
