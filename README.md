@@ -4,4 +4,7 @@
 
 ### Topics Covered:
 
--
+- Sorting an Array
+- Reversing an Array
+- JavaScript Array toSorted()
+- Numeric Sort
