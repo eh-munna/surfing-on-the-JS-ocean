@@ -1,9 +1,10 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-## An exciting journey to explore JavaScript
+## JavaScript Array Iteration
 
-### Branch Naming Convention
+### Topics Covered:
 
-- Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
-
-  - For example, string related basic practice's source codes are shared in: _JS-ocean/string_ branch
+- JavaScript Array forEach()
+- JavaScript Array map()
+- JavaScript Array flatMap()
+- JavaScript Array filter()
