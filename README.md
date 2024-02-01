@@ -1,8 +1,8 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-## JavaScript Date Objects
+## JavaScript Date Formats
 
 ### Topics Covered:
 
-- Creating Date Objects
-- Previous Century
+- JavaScript Date Input
+- Date Input - Parsing Dates
