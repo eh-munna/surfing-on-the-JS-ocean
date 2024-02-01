@@ -8,3 +8,6 @@
 - The getDate() Method
 - The getMonth() Method
 - The getFullYear() Method
+- The setFullYear() Method
+- The setMonth() Method
+- The setDate() Method

@@ -1,5 +1,7 @@
 // JavaScript Date Methods
 
+const demo = document.getElementById('show-demo');
+
 // The getDay() Method
 
 const days = [
@@ -56,3 +58,17 @@ const finalResult = `Today is: ${days[today - 1]}, ${date} ${
   months[currentMonth]
 } ${currentYear}`;
 console.log(finalResult);
+
+const currentDate = new Date();
+
+// setFullYear Method
+currentDate.setFullYear(2023);
+
+// setDate Method
+currentDate.setMonth(6);
+
+// setDate Method
+currentDate.setDate(5);
+
+// showing on the UI
+demo.innerText = currentDate;
