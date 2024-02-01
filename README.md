@@ -8,3 +8,7 @@
 - JavaScript Array map()
 - JavaScript Array flatMap()
 - JavaScript Array filter()
+- JavaScript Array reduce()
+- JavaScript Array every()
+- JavaScript Array some()
+- JavaScript Array.from()
