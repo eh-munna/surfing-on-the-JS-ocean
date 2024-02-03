@@ -1,9 +1,11 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-## An exciting journey to explore JavaScript
+## JavaScript Comparison
 
-### Branch Naming Convention
+### Topics Covered:
 
-- Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
-
-  - For example, string related basic practice's source codes are shared in: _JS-ocean/string_ branch
+- Ternary Operator
+- The Nullish Coalescing Operator (??)
+  - Always returns the left side of the comparison if it is not null or undefined
+- The Optional Chaining Operator (?.)
+  - The ?. operator returns undefined if an object is undefined or null (instead of throwing an error).
