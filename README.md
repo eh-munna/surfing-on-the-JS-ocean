@@ -1,9 +1,12 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-## An exciting journey to explore JavaScript
+## JavaScript Sets
 
-### Branch Naming Convention
+### Topics Covered:
 
-- Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
-
-  - For example, string related basic practice's source codes are shared in: _JS-ocean/string_ branch
+- How to Create a Set
+- The add() Method
+- The values() Method
+  - The values() method returns a new iterator object containing all the values in a Set
+- The delete() Method
+- The has() Method
