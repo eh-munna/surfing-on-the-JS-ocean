@@ -1,4 +1,4 @@
-// JavaScript Loop
+// JavaScript Loops
 
 // Basic for loop
 
