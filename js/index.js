@@ -1,4 +1,4 @@
-// JavaScript Sets
+// JavaScript Sets && Maps
 
 // How to Create a Set && The add() Method
 const user = new Set();
@@ -32,3 +32,29 @@ console.log(letters);
 // The has() Method
 const has = letters.has('d');
 console.log(has);
+
+// How to Create a Map && The set() Method
+
+const fruits = new Map();
+fruits.set('apples', 500);
+fruits.set('oranges', 430);
+fruits.set('papayas', 500);
+console.log(fruits);
+
+// The get() Method
+const apples = fruits.get('apples'); //
+console.log(apples);
+
+// The size property
+
+const numberOfFruits = fruits.size;
+console.log(numberOfFruits);
+
+// The entries() Method
+
+const entries = fruits.entries();
+console.log(entries);
+
+for (const key of entries) {
+  console.log(key);
+}
