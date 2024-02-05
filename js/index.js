@@ -55,6 +55,9 @@ console.log(numberOfFruits);
 const entries = fruits.entries();
 console.log(entries);
 
-for (const key of entries) {
-  console.log(key);
+for (const keys of entries) {
+  // console.log(keys);
+  for (const key of keys) {
+    console.log(`${key}`);
+  }
 }
