@@ -1,9 +1,13 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-## An exciting journey to explore JavaScript
+## JavaScript Type Conversion
 
-### Branch Naming Convention
+### Topics Covered:
 
-- Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
-
-  - For example, string related basic practice's source codes are shared in: _JS-ocean/string_ branch
+- Converting Strings to Numbers
+- The Unary + Operator
+- Converting Numbers to Strings
+- Converting Dates to Numbers
+- Converting Numbers to Dates
+- Converting Booleans to Numbers
+- Converting Numbers to Booleans
