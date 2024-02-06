@@ -41,3 +41,13 @@ try {
 //   console.log(error.message);
 //   console.log(error.errorMessage); // Access the custom property if needed
 // }
+
+// try catch finally
+
+try {
+  throw new Error('An error occurred');
+} catch (error) {
+  console.error('Caught an error:', error.message);
+} finally {
+  console.log('This block will always be executed');
+}

@@ -5,3 +5,4 @@
 ### Topics Covered:
 
 - try catch
+- try catch finally
