@@ -1,9 +1,17 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-## An exciting journey to explore JavaScript
+## JavaScript Regular Expressions
 
-### Branch Naming Convention
+### Topics Covered:
 
-- Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
-
-  - For example, string related basic practice's source codes are shared in: _JS-ocean/string_ branch
+- Using String Methods
+  - search()
+    - The search() method searches a string for a specified value and returns the position of the match
+  - replace()
+    - The replace() method replaces a specified value with another value in a string
+  - Regular Expression Modifiers
+    - g, i
+  - Brackets: to find a range of characters
+    - String ranges
+    - Numeric ranges
+  - The exec() method
