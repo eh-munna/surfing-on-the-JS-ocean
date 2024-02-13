@@ -1,9 +1,16 @@
 <h1 align= "center">Surfing in the JavaScript Ocean</h1>
 
-## An exciting journey to explore JavaScript
+## JavaScript Objects
 
-### Branch Naming Convention
+### Topics Covered:
 
-- Different topics are organized in separate branches with naming convention: _JS-ocean/[desired-branch-name]_
-
-  - For example, string related basic practice's source codes are shared in: _JS-ocean/string_ branch
+- Object Literal
+- Accessing JavaScript Properties
+  - Dot Notation
+  - Bracket Notation
+- JavaScript Getter
+- JavaScript Setter
+- Object Constructor
+- Object Prototypes
+- Object Sets
+- Object Maps
