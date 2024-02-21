@@ -3,13 +3,33 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JS Ocean</title>
+    <title>JS Ocean || Browser Object Model</title>
     <link rel="stylesheet" href="styles/style.css" />
   </head>
   <body>
     <div class="header">
-      <h1>Surfing in the JavaScript Ocean</h1>
+      <h1>Browser Object Model</h1>
     </div>
+
+    <div id="container">
+      <p id="window-width"></p>
+      <p id="window-height"></p>
+
+      <div style="display: flex; gap: 20px; margin-block: 10px">
+        <button id="open-window">Open a new window</button>
+        <button id="close-window">Close window</button>
+      </div>
+      <div style="display: flex; gap: 20px; margin-block: 10px">
+        <button id="back">Go Back</button>
+        <button id="forward">Go Forward</button>
+      </div>
+      <p id="time"></p>
+      <div style="display: flex; gap: 20px; margin-block: 10px">
+        <button id="start-watch">Start Watch</button>
+        <button id="stop-watch">Stop Watch</button>
+      </div>
+    </div>
+
     <script src="js/index.js"></script>
   </body>
 </html>
