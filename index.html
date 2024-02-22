@@ -3,13 +3,41 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JS Ocean</title>
+    <title>JS Ocean || Web API</title>
     <link rel="stylesheet" href="styles/style.css" />
   </head>
   <body>
     <div class="header">
-      <h1>Surfing in the JavaScript Ocean</h1>
+      <h1>Web API</h1>
     </div>
+
+    <div>
+      <input id="form-input" type="number" min="100" max="300" required />
+      <button onclick="inputValidation()">OK</button>
+    </div>
+
+    <div>
+      <p id="result"></p>
+    </div>
+
+    <div>
+      <h2>Storing Data in the browser storage</h2>
+    </div>
+
+    <div>
+      <button id="setLocal">Set Username</button>
+    </div>
+
+    <div>
+      <h2>Web Worker</h2>
+
+      <button id="start-worker">Start Worker</button>
+      <button id="check-status">Check Status</button>
+      <button id="stop-worker">Stop Worker</button>
+
+      <p id="worker-status"></p>
+    </div>
+
     <script src="js/index.js"></script>
   </body>
 </html>
