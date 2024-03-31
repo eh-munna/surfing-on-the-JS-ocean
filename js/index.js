@@ -1,61 +1,31 @@
-let price = 9;
+const sent = 'I am watching for changes';
+// const sentArr = sent.split('');
+// let finalReverse = '';
+// for (let i = sentArr.length - 1; i >= 0; i--) {
+//   finalReverse += sentArr[i];
+// }
 
-if (price <= 10) {
-  // console.log(`You are gorib`);
-} else {
-  // console.log(`You are not gorib`);
+// console.log(finalReverse);
+let rev = '';
+// for (const char of sent) {
+//   rev = char + rev;
+// }
+
+// console.log(rev);
+
+for (let i = 0; i < sent.length; i++) {
+  // console.log(rev);
+  rev = sent[i] + rev;
 }
+// console.log(rev);
 
-const age = 20;
-const isMale = false;
-if (age >= 18 && isMale) {
-  // console.log(`You are a male adult`);
-} else if (age >= 18 && !isMale) {
-  // console.log(`You are female adult`);
-} else {
-  // console.log(`You are not adult`);
-}
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
+const splitNumbers = numbers.slice(2, 5);
+console.log(splitNumbers);
+console.log(numbers);
 
-// ternary
+const addSome = numbers.splice(2, 0, 87, 90);
+console.log(numbers);
 
-const weather = 'sunny';
-// console.log(
-//   weather === 'Rainy' ? 'I will take a break' : `I will go for a walk`
-// );
-
-const result =
-  age >= 18 && isMale
-    ? `You are a male adult`
-    : age >= 18 && !isMale
-    ? `You are a female adult`
-    : `You are not an adult`;
-// console.log(result);
-
-if (age >= 18) {
-  if (isMale) {
-    console.log(`You are a male adult`);
-  } else {
-    // console.log(`You are a female adult`);
-  }
-} else {
-  // console.log(`You are not an adult`);
-}
-
-const result2 =
-  age >= 18
-    ? isMale
-      ? `You are a male adult`
-      : `You are a female adult`
-    : `You are not an adult`;
-// console.log(result2);
-
-let numbers = [1, 2, 3, 4, 5, 6];
-// console.log(numbers.length);
-// numbers.length = 0;
-// numbers = [];
-
-// numbers.push(7);
-// numbers.pop();
-// numbers.unshift(7);
-numbers.shift();
+const deleteSome = numbers.splice(2, 2);
 console.log(numbers);
